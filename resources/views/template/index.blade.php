@@ -22,3 +22,5 @@
 </body>
 
 </html>
+
+{{-- 1. I split up the html template in partials and I modified the paths to css, js and img --}}

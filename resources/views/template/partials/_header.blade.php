@@ -8,10 +8,10 @@
 <div id="wrapper-header">
     <div id="main-header" class="object">
         <div class="logo">
-            <img src="assets/img/logo-burst.png" alt="logo platz" height="38" width="90" />
+            <a href="/"><img src="/assets/img/logo-burst.png" alt="logo platz" height="38" width="90" /></a>
         </div>
         <div id="main_tip_search">
-            <form>
+            <form action="/">
                 <input type="text" name="search" id="tip_search_input" list="search" autocomplete="off" required />
             </form>
         </div>
